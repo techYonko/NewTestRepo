@@ -1,2 +1,1 @@
-# NewTestRepo
-This is your first repository
+This is a sample README file.
